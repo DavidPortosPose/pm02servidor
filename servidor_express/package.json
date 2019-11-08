@@ -1,0 +1,19 @@
+{
+  "name": "servidor_express",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "node-firebird": "^0.8.7",
+    "shortid": "^2.2.15"
+  }
+}
